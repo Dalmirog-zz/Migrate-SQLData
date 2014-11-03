@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Connections>
+    <Source>
+      <SQLInstance>BSAS-DB-01</SQLInstance>
+      <Database>Monitoring</Database>
+      <Table>Source_Users</Table>
+    </Source>
+    <Destination>
+      <SQLInstance>BSAS-DB-01</SQLInstance>
+      <Database>Monitoring</Database>
+      <Table>Users</Table>
+    </Destination>
+</Connections>
